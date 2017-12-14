@@ -17,6 +17,7 @@ music.ipynb: Contains data pre processing steps for adding artificial noise to t
 
 Demo folder contains the output of the model trained on various noises as can be found in the demo folder. 
 Demo/Demo/results.ipynb : Contains the original, noisy and the recontructed output signal.
+
 DiffNoiseGANAfter.wav : sample output of GAN
 
 DiffNoiseGANBefore.wav : sample input to GAN
